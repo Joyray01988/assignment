@@ -28,7 +28,7 @@ a, a:hover{
 .banner-section{
 	width: 100%;
 	padding: 80px 0px;
-	background: url("../images/banner.png") center top no-repeat;
+	background: url("../images/Banner.png") center top no-repeat;
 	background-size: cover;
 }
 .banner-inner{
